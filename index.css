@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #EEEEEE;
+    display: flex;
+    justify-content: space-around;
+}
+
+#score{
+    height: 120px;
+    width: 155px;
+    background: #080001;
+}
+
+#score p{
+    font-family: Cursed Timer ULiL;
+    font-size: 90px;
+    color: #F94F6D;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+button {
+    font-size: 18px;
+    font-family: Cursed Timer ULiL;
+    color: #9AABD8;
+    background: #1B244A;
+    border: 1px solid #9AABD8;
+}
